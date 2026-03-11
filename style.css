@@ -303,7 +303,7 @@ body {
 
 .hero-description {
   font-size: 1.15rem;
-  color: var(--text-gray);
+  color: var(--text-black);
   margin-bottom: var(--spacing-lg);
   line-height: 1.8;
 }
@@ -893,11 +893,6 @@ img {
   align-items: center;
   justify-content: center;
   transition: var(--transition-normal);
-}
-
-.whatsapp-placeholder:hover {
-  border-color: var(--secondary-coral);
-  background: var(--primary-teal-light);
 }
 
 .placeholder-icon {
